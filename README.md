@@ -23,3 +23,6 @@ Saya mencoba ini bekerja pada 5.3.6 dengan baik, saya sangat menyarankan Anda un
 ## Referensi
 
 * [https://eksyam.com/codeigniter-hmvc](https://eksyam.com/codeigniter-hmvc)
+* [https://github.com/bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
+* [https://github.com/anburocky3/Latest-Codeigniter-3-HMVC-Modules](https://github.com/anburocky3/Latest-Codeigniter-3-HMVC-Modules)
+* [https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc)
