@@ -22,4 +22,4 @@ Saya mencoba ini bekerja pada 5.3.6 dengan baik, saya sangat menyarankan Anda un
 
 ## Referensi
 
-* [eksyam.com](https://eksyam.com/codeigniter-hmvc)
+* [https://eksyam.com/codeigniter-hmvc](https://eksyam.com/codeigniter-hmvc)
